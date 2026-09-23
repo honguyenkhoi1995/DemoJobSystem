@@ -1,0 +1,7 @@
+Add these to your existing pom.xml:
+- spring-boot-starter-web
+- spring-boot-starter-data-jpa
+- spring-boot-starter-security
+- mysql-connector-j
+
+Merge them into your existing pom.xml; do not replace your whole file blindly.
